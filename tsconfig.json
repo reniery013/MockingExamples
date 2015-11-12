@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "noImplicitAny": true
+    },
+    "files": [
+        "vehicle.ts",
+        "MockSpecs.ts",
+        "iDriver.ts",
+        "motoDriver.ts"
+    ]
+}
